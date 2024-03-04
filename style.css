@@ -1,0 +1,21 @@
+body{
+    background-image: url(images/mtp.jpg);
+    background-repeat: no-repeat;
+    
+}
+#text{
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+}
+#content{
+ padding-left: 500px;
+}
+#h1{
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+
+
