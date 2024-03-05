@@ -16,6 +16,19 @@ body{
     justify-content: space-between;
 
     
+}#page1{
+    background-color: rgb(12, 29, 38);
+    margin-top: 76%;
+    margin-left: -2%;
+    margin-right: -0.5%;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+
+
+}
+h6{
+    color: khaki;
 }
 
 
