@@ -29,6 +29,7 @@ body{
 }
 h6{
     color: khaki;
+    font-size: 150%;
 }
 body{
     background-color: rgb(11, 29, 38);
@@ -42,7 +43,7 @@ p{
 
   h2 {
     color: aliceblue;
-    font-size: 60px;
+    font-size: 350%;
     line-height: 36px;
     margin-top: 20px;
   }
@@ -50,7 +51,7 @@ p{
 
   h5 {
     color: #fbd784;
-    font-size: 20px;
+    font-size: 150%;
     line-height: 20px;
     margin-top: 10px;
   }
@@ -76,36 +77,52 @@ p{
     color: #fbd784;
     font-size: 20px;
   }
-  #container{
-    display: flex;
+  #page5{
+    
     color: antiquewhite;
-    padding-left: 200px;
-    margin-left: 5%;
-    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 350px;
+    min-width: 600px;
+    margin-bottom: 280px;
+    padding-top: 250px;
+    display: flex;
+    justify-content: space-evenly;
     
 
 
 
 }
 .image{
- float: right;
- padding-bottom: 800px; 
+ width: 480px;
+ height: 680px;
 }
-
 
 
 
 
 h3{
 color: khaki;
+font-size: 200%;
 }
 body{
     background-color: rgb(11,29,38);
 }
-.text{
-  text-align: justify;
-  padding-top: 400px;
+#form{
+  padding: 100px;
+  display: flex;
+  color: beige;
+  justify-content: space-between;
+
+
 }
+h1{
+  color: cornsilk;
+  font-size: 350%;
+}
+body{
+  background-color: rgb(11, 29, 38);
+}
+
 
     
 
