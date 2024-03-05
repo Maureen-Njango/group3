@@ -76,5 +76,43 @@ p{
     color: #fbd784;
     font-size: 20px;
   }
+  #container{
+    display: flex;
+    color: antiquewhite;
+    padding-left: 200px;
+    margin-left: 5%;
+    padding-top: 100px;
+    
+
+
+
+}
+.image{
+ float: right;
+ padding-bottom: 800px; 
+}
+
+
+
+
+
+h3{
+color: khaki;
+}
+body{
+    background-color: rgb(11,29,38);
+}
+.text{
+  text-align: justify;
+  padding-top: 400px;
+}
+
+    
+
+    
+
+
+
+
 
 
